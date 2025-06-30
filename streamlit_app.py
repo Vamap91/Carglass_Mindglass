@@ -4,7 +4,7 @@ import time
 
 # 🎨 Configuração da interface
 st.set_page_config(
-    page_title="MindGlass V2 – Ideias Inteligentes", 
+    page_title="MindGlass V3 – Ideias Inteligentes", 
     layout="wide",
     initial_sidebar_state="expanded"
 )
